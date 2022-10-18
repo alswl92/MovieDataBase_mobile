@@ -2,5 +2,5 @@
 
 Search movies and see it's rating and summary. 
 
-![Screenshot1](/assets/Screenshot1.png)
-![Screenshot2](/assets/Screenshot2.png)
+![Screenshot1](Screenshot1.png)
+![Screenshot2](Screenshot2.png)
