@@ -1,6 +1,6 @@
-# Movie Database Search - API [ReactNative]
+# Movie Database Search - API (ReactNative)
 
 Search movies and see it's rating and summary. 
 
-![Screenshot](/assets/Screenshot1.png)
-![Screenshot](/assets/Screenshot2.png)
+![Screenshot1](/assets/Screenshot1.png)
+![Screenshot2](/assets/Screenshot2.png)
